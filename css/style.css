@@ -83,10 +83,10 @@ footer{
 }
 
 .flex-item a#eight{
-    background-image: url(../assets/images/eight.png); 
+    background-image: url(../assets/images/1cover.jpg); 
 
 }.flex-item a#final{
-    background-image: url(../assets/images/final.png); 
+    background-image: url(../assets/images/9.png); 
 }
 
 /* want a different background image for each project? */
