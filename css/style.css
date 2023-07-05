@@ -81,17 +81,10 @@ footer{
     color:#4f4f4f;
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
-.flex-item a#demon{
-    background-image: url(../assets/images/demon.png); 
-}
+
 .flex-item a#eight{
     background-image: url(../assets/images/eight.png); 
-}.flex-item a#demon2{
-    background-image: url(../assets/images/demon2.png); 
-}.flex-item a#nike{
-    background-image: url(../assets/images/nike.png); 
-}.flex-item a#week4{
-    background-image: url(../assets/images/week4.png); 
+
 }.flex-item a#final{
     background-image: url(../assets/images/final.png); 
 }
