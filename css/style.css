@@ -88,6 +88,25 @@ footer{
 }.flex-item a#final{
     background-image: url(../assets/images/9.png); 
 }
+.flex-item a#pro3{
+    background-image: url(../assets/images/1封面.png); 
+}
+.flex-item a#pro4{
+    background-image: url(../assets/images/1.jpg); 
+}
+.flex-item a#pro5{
+    background-image: url(../assets/images/28.jpg); 
+}
+.flex-item a#pro6{
+    background-image: url(../assets/images/2.jpg); 
+}
+.flex-item a#pro7{
+    background-image: url(../assets/images/Final\ work\ 5.png); 
+}
+.flex-item a#pro8{
+    background-image: url(../assets/images/111.jpg); 
+}
+
 
 /* want a different background image for each project? */
 /* try give each a tag a unique id in your HTML and then set different background images here*/
