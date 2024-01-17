@@ -66,6 +66,8 @@ footer{
     padding: 5px;
 }
 
+
+
 .flex-item a{
     display: flex;
     width: 100%;
@@ -106,6 +108,9 @@ footer{
 .flex-item a#pro8{
     background-image: url(../assets/images/111.jpg); 
 }
+.flex-item a#aboutme{
+    background-image: url(../assets/images/aboutme.png); 
+}
 
 
 /* want a different background image for each project? */
@@ -126,6 +131,8 @@ footer{
    background-color: white;
    padding:5px 10px;
 }
+
+
 
 
 /* Media Queries for responsive design */
